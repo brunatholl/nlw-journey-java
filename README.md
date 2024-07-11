@@ -1,4 +1,2 @@
 Next Level Week: Journey!
-Trilha: Java com Fernanda Kipper
-
-Framework Spring Boot
+Trilha back-end em Java. Utilizando Framework Spring Boot.
