@@ -1,2 +1,3 @@
-# nlw-journey-java
-Trilha de Java com Fernanda Kipper
+Next Level Week: Journey!
+Trilha: Java com Fernanda Kipper
+Framework Spring Boot
